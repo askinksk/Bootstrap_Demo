@@ -1,0 +1,99 @@
+.ust-kisim{
+	background-image: url(img/r2.jpg);
+	height: 90vh;
+	width: 100%;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
+}
+
+@media screen and (max-width:992px){/*mobile versiyonda border kaldırma olmadı*/
+	.nav li .border-end{
+		border-width: 0px;
+	}
+}
+
+.ust-kisim .logo{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	margin-top: 150px;
+	margin-left: 500px;
+	background-attachment: fixed;
+}
+.yukseklik{
+	margin-top:350px;
+	position:absolute;
+	margin-left: 200px;
+}
+.yukseklik-2{
+	margin-top:450px;
+	margin-left: 400px;
+	position:absolute;
+}
+
+.altyazi{
+	margin-top:550px;
+	margin-right: 300px;
+	position:absolute;
+}
+
+.sari{
+	color:yellow;
+}
+.teklif{
+	margin-left:280px;
+}
+.altres{
+	background-image: url(img/r2.jpg);
+	height: 40vh;
+	width: 100%;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.bagayar{
+	margin-top:90px;
+	position:absolute;	
+}
+.slogan{
+	margin-left: 600px;
+}
+.calisma{
+	text-align:center;
+}
+
+
+
+.ust-kisim-hakkimizda{
+	background-image: url(img/r1.jpg);
+	height: 45vh;
+	width: 100%;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
+}
+.hakkimizda-logo{
+	width:175px;
+	height:175px;
+	position:absolute;
+	margin-top:180px;
+}
+.hakkimizda-banner{
+	margin-top:200px;
+	position:absolute;
+	margin-left: 200px;
+}
+.hakkimizda-banner2{
+	margin-top:280px;
+	position:absolute;
+	margin-left: 200px;
+}
+.fs-14{
+	font-size:14px;
+}
